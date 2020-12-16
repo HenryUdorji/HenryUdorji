@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henryudorji&label=Profile%20views&color=0e75b6&style=flat" alt="henryudorji" /> </p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/henry_ifechukwu?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/user?screen_name=henry_ifechukwu)
+<p align="left"> <a href="https://twitter.com/henry_ifechukwu" target="blank"><img src="https://img.shields.io/twitter/follow/henry_ifechukwu?logo=twitter&style=for-the-badge" alt="henry_ifechukwu" /></a> </p>
 
 
 - 🌱 I’m currently learning everything from Java to JavaScript 🤣
@@ -37,16 +37,6 @@
 
 <!-- BLOG-POST-LIST:END -->
 
----
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-</details>
 
 ---
 <details>
