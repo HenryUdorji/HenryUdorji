@@ -1,14 +1,19 @@
-### Hi there, I'm Henry Udorji - aka Hash 👋 welcome to my profile
+<h1 align="center">Hi 👋, I'm Henry Udorji</h1>
+<h3 align="center">I'm a student and a passionate software developer</h3>
+### Hi 👋, I'm Henry Udorji 
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=henryudorji&label=Profile%20views&color=0e75b6&style=flat" alt="henryudorji" /> </p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/henry_ifechukwu?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/user?screen_name=henry_ifechukwu)
 
-## I'm a Student and a Software Developer
+## I'm a student and a passionate software developer
 
 - 🌱 I’m currently learning everything from Java to JavaScript 🤣
 - 🔭 Right now Springboot, Android and Angular are my favourite
 - 👯 I’m looking to enhance my skills either through internship or a fulltime job
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play football and video games
+- 🥅 2021 Goals: Contribute to Open Source projects and learn more about spring cloud
+- ⚡ Fun fact: When am not coding, i love to play football and video games
 
 
 ### Connect with me:
@@ -16,6 +21,8 @@
 [<img align="left" alt="henry | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="henry | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="henry | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="henry | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" />][medium]
+
 
 <br />
 
@@ -67,4 +74,5 @@
 [twitter]: https://twitter.com/henry_ifechukwu
 [facebook]: https://facebook.com/profile.php?id=100009044980477
 [linkedin]: https://linkedin.com/in/henry-udorji-98204a1b1
+[medium]: https://medium.com/@henryudorji
 
