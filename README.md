@@ -7,10 +7,10 @@
 <p align="left"> <a href="https://twitter.com/henry_ifechukwu" target="blank"><img src="https://img.shields.io/twitter/follow/henry_ifechukwu?logo=twitter&style=for-the-badge" alt="henry_ifechukwu" /></a> </p>
 
 
-- 🌱 I’m currently learning everything from Java to JavaScript 🤣
-- 🔭 Right now Springboot, Android and Angular are my favourite
+- 🌱 I’m currently learning everything from Java to Kotlin 🤣
+- 🔭 Right now Android and Springboot are my favourite 
 - 👯 I’m looking to enhance my skills either through internship or a fulltime job
-- 🥅 2021 Goals: Contribute to Open Source projects and learn more about spring cloud
+- 🥅 2021 Goals: Contribute to Open Source projects and also create more apps
 - ⚡ Fun fact: When am not coding, i love to play football and video games
 
 
