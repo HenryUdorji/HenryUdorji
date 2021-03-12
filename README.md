@@ -11,7 +11,7 @@
 - 🔭 Right now i'm fully into Android and Springboot as an aside stuff
 - 👯 I’m looking to enhance my skills either through internship or a fulltime job
 - 🥅 2021 Goals: Contribute to Open Source projects and also create more apps
-- ⚡ Fun fact: When am not coding, i love to play football and video games
+- ⚡ Fun fact: When am not coding, i watch movies or play video games
 
 
 ### Connect with me:
