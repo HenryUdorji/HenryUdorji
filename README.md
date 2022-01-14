@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Henry Udorji</h1>
-<h3 align="center">I'm a student and a passionate software developer</h3>
+<h3 align="center">I am a student and a passionate software developer</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henryudorji&label=Profile%20views&color=0e75b6&style=flat" alt="henryudorji" /> </p>
@@ -7,10 +7,10 @@
 <p align="left"> <a href="https://twitter.com/henry_ifechukwu" target="blank"><img src="https://img.shields.io/twitter/follow/henry_ifechukwu?logo=twitter&style=for-the-badge" alt="henry_ifechukwu" /></a> </p>
 
 
-- 🌱 I’m currently learning everything from Java to Kotlin 🤣
+- 🌱 I am quite proficient with Java and Kotlin
 - 🔭 Right now i'm fully into Android and Springboot as an aside stuff
 - 👯 I’m looking to enhance my skills either through internship or a fulltime job
-- 🥅 2021 Goals: Contribute to Open Source projects and also create more apps
+- 🥅 2022 Goals: Learn to build cross platform applications using flutter and Dart
 - ⚡ Fun fact: When am not coding, i watch movies or play video games
 
 
