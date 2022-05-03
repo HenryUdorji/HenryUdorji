@@ -40,16 +40,25 @@
 
   <img align="left" alt="Henry's GitHub Stats" src="https://github-readme-stats-phi-six.vercel.app/api?username=HenryUdorji&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
            
-  <img align="left" alt="Henry's GitHub Stats" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenryUdorji&layout=compact)](https://github.com/anuraghazra/github-readme-stats)" />  
+  <img align="left" alt="Top Languages" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenryUdorji&layout=compact)](https://github.com/HenryUdorji/github-readme-stats)" />  
 
 </details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-           
-  <img align="left" alt="Henry's GitHub Stats" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)" />  
+### Streak Stats Activity
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HenryUdorji&theme=default&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-</details>
+---
+
+### WakaTime Coding Activity
+
+##### Total Time
+<a href="https://wakatime.com/@nanrasukedy" title="Data update every midnight"><img src="https://wakatime.com/badge/user/08e276c7-e836-41e6-bac8-ed132d6ef681.svg?style=for-the-badge" alt="Wakatime weekly coding activity Tracker" /></a>
+
+##### Weekly Activity
+<a href="https://wakatime.com/@nanrasukedy" title="Data update every midnight"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=HenryUdorji&layout=compact&langs_count=6" alt="Wakatime weekly coding actitvity languages" /></a>
+
+### Profile Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=HenryUdorji&theme=flat&no-bg=true&no-frame=true&column=8&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)](https://github.com/HenryUdorji/github-profile-trophy#about-rank)
 
 
 [twitter]: https://twitter.com/henry_ifechukwu
