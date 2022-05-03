@@ -35,18 +35,12 @@
 <br />
 
 ---
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Henry's GitHub Stats" src="https://github-readme-stats-phi-six.vercel.app/api?username=HenryUdorji&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
-          
-</details>
-
----
+### GitHub Stats
+[![GitHub Stats](https://github-readme-stats-phi-six.vercel.app/api?username=HenryUdorji&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)]
 
 ### Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenryUdorji&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ### Streak Stats Activity
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HenryUdorji&theme=default&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
