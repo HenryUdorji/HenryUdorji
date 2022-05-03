@@ -40,7 +40,7 @@
 
   <img align="left" alt="Henry's GitHub Stats" src="https://github-readme-stats-phi-six.vercel.app/api?username=HenryUdorji&show_icons=true&hide_border=true&count_private=true" />
            
-  <img align="left" alt="Henry's GitHub Stats" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenryUdorji&langs_count=8)]" />  
+  <img align="left" alt="Henry's GitHub Stats" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenryUdorji&layout=compact)](https://github.com/HenryUdorji/github-readme-stats)" />  
 
 </details>
 
