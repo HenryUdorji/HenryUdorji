@@ -40,17 +40,17 @@
 ![GitHub Stats](https://github-readme-stats-phi-six.vercel.app/api?username=HenryUdorji&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)
 
 ### Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenryUdorji&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenryUdorji&hide_border=true&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Streak Stats Activity
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HenryUdorji&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HenryUdorji&hide_border=true&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ---
 
 ### WakaTime Coding Activity
 
 ##### Total Time
-<a href="https://wakatime.com/@nanrasukedy" title="Data update every midnight"><img src="https://wakatime.com/badge/user/08e276c7-e836-41e6-bac8-ed132d6ef681.svg?style=for-the-badge" alt="Wakatime weekly coding activity Tracker" /></a>
+<a href="https://wakatime.com/@HenryUdorji" title="Data update every midnight"><img src="https://wakatime.com/badge/user/08e276c7-e836-41e6-bac8-ed132d6ef681.svg?style=for-the-badge" alt="Wakatime weekly coding activity Tracker" /></a>
 
 ##### Weekly Activity
 <a href="https://wakatime.com/@HenryUdorji" title="Data update every midnight"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=HenryUdorji&layout=compact&langs_count=10" alt="Wakatime weekly coding actitvity languages" /></a>
