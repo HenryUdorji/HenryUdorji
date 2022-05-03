@@ -53,7 +53,7 @@
 <a href="https://wakatime.com/@nanrasukedy" title="Data update every midnight"><img src="https://wakatime.com/badge/user/08e276c7-e836-41e6-bac8-ed132d6ef681.svg?style=for-the-badge" alt="Wakatime weekly coding activity Tracker" /></a>
 
 ##### Weekly Activity
-[![henry's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HenryUdorji)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://wakatime.com/@HenryUdorji" title="Data update every midnight"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=HenryUdorji&layout=compact&langs_count=10" alt="Wakatime weekly coding actitvity languages" /></a>
 
 ### Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=HenryUdorji&theme=flat&no-bg=true&no-frame=true&column=8&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)](https://github.com/HenryUdorji/github-profile-trophy#about-rank)
