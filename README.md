@@ -8,9 +8,9 @@
 
 
 - 🌱 I am quite proficient with Java and Kotlin
-- 🔭 Right now i'm fully into Android and Springboot as an aside stuff
-- 👯 I’m looking to enhance my skills either through internship or a fulltime job
-- 🥅 2022 Goals: Learn to build cross platform applications using flutter and Dart
+- 🔭 Right now i'm fully into Native Android development and I write Springboot as an aside stuff
+- 👯 I’m looking to enhance my skills through working and collaborating in interesting projects
+- 🥅 2022 Goals: Take and pass the Associate Android Developer Certification exam
 - ⚡ Fun fact: When am not coding, i watch movies or play video games
 
 
@@ -51,9 +51,6 @@
 
 ##### Total Time
 <a href="https://wakatime.com/@HenryUdorji" title="Data update every midnight"><img src="https://wakatime.com/badge/user/08e276c7-e836-41e6-bac8-ed132d6ef681.svg?style=for-the-badge" alt="Wakatime weekly coding activity Tracker" /></a>
-
-##### Weekly Activity
-<a href="https://wakatime.com/@HenryUdorji" title="Data update every midnight"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=HenryUdorji&layout=compact&langs_count=10" alt="Wakatime weekly coding actitvity languages" /></a>
 
 ### Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=HenryUdorji&theme=flat&no-bg=true&no-frame=true&column=8&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)](https://github.com/HenryUdorji/github-profile-trophy#about-rank)
