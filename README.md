@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://twitter.com/henry_ifechukwu" target="blank"><img src="https://img.shields.io/twitter/follow/henry_ifechukwu?logo=twitter&style=for-the-badge" alt="henry_ifechukwu" /></a> </p>
 
 
-- 🌱 I'm an Android Developer at Accelerex Holdings
+- 🌱 Currently an Android Developer at Accelerex Holdings
 - 🔭 Right now i'm fully into Native Android development and I write Springboot as an aside stuff
 - 👯 When I am not working on company projects I write apps using Compose UI
 - 🥅 2022 Goals: I want to also become proficient with Flutter
