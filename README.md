@@ -37,10 +37,10 @@
 ---
 
 ### Apps on PlayStore
-- ![iQuest-Unizik](https://play.google.com/store/apps/details?id=com.app.iquest_unizik)
-- ![Theater](https://play.google.com/store/apps/details?id=com.henryudorji.theater)
-- ![WallPaperHD4K](https://play.google.com/store/apps/details?id=com.hashconcepts.wallpaperhd4k)
-- ![Quilera](https://play.google.com/store/apps/details?id=com.quilera.app)
+- [iQuest-Unizik](https://play.google.com/store/apps/details?id=com.app.iquest_unizik)
+- [Theater](https://play.google.com/store/apps/details?id=com.henryudorji.theater)
+- [WallPaperHD4K](https://play.google.com/store/apps/details?id=com.hashconcepts.wallpaperhd4k)
+- [Quilera](https://play.google.com/store/apps/details?id=com.quilera.app)
 
 ---
 
