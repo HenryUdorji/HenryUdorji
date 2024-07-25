@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Henry Udorji</h1>
-<h3 align="center">I am a student and a passionate software developer</h3>
+<h1 align="center">Hi 👋, I'm Ifechukwu</h1>
+<h3 align="center">I am an Android software developer</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henryudorji&label=Profile%20views&color=0e75b6&style=flat" alt="henryudorji" /> </p>
@@ -8,9 +8,9 @@
 
 
 - 🌱 Currently an Android Developer at Global Accelerex
-- 🔭 Right now i'm fully into Native Android development and I write Springboot and Flutter as an aside stuff
+- 🔭 Right now i'm fully into Native Android development and I write Springboot as an aside stuff
 - 👯 When I am not working on company projects I write apps using Compose UI
-- 🥅 2023 Goals: I want to also become proficient with Flutter
+- 🥅 2024 Goals: I want to also become proficient with building Android POS applications/EMV POS
 - ⚡ Fun fact: When am not coding, i watch movies or play video games
 
 
